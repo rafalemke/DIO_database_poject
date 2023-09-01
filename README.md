@@ -1,5 +1,6 @@
 # DIO_database_poject
-Repositório contendo a criação de um projeto lógico de um banco de dados para uma oficina mecânica.
+Repositório contendo a criação de um projeto lógico de um banco de dados de uma oficina mecânica.
+Este projeto foi feito para a conclusão do curso de banco de dados, realizado na plataforma de ensino Digital Innovation One.
 <br>
 <br>
 
